@@ -10,7 +10,7 @@ import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.bignerdranch.android.productivitypalaceredux.ui.theme.ProductivityPalaceReduxTheme
+import com.bignerdranch.android.productivitypalaceredux.ui.ProductivityPalaceReduxTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
